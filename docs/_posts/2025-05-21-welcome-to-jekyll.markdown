@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Meet Jasper"
 date:   2025-05-21 21:49:39 -0700
 categories: jekyll update

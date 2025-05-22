@@ -30,9 +30,12 @@ url: "https://jasperlafortune.github.io/" # the base hostname & protocol for you
 github_username:  jasperlafortune
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-cayman
+# remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+# - jekyll-remote-theme
+- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
